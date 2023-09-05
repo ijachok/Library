@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Library" parent="Theme.Material3.DynamicColors.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="cardBackgroundColor">@color/material_dynamic_neutral_variant95</item>
+        <item name="android:statusBarColor">@color/material_dynamic_neutral_variant95</item>
+        <item name="android:navigationBarColor">@color/material_dynamic_neutral_variant95</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Library" parent="Base.Theme.Library" />
+</resources>

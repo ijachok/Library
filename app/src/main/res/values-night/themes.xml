@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Library" parent="Theme.Material3.DynamicColors.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="cardBackgroundColor">@color/material_dynamic_neutral_variant10</item>
+        <item name="android:statusBarColor">@color/material_dynamic_neutral_variant10</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
